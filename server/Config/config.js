@@ -2,4 +2,4 @@
 // Puerto
 //========================
 
-process.env.PORT = process.env.PORT || 3002;
+process.env.PORT = process.env.PORT || 3000;
